@@ -1,0 +1,16 @@
+{
+  "name": "nitin_backend",
+  "version": "1.0.0",
+  "description": "a backend learning by nitin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "backend",
+    "nitin"
+  ],
+  "author": "nitin parmar",
+  "license": "ISC"
+}
